@@ -3,7 +3,7 @@ Interaction Between 'Person', 'Dog', and 'House':
 Model a scenario where a person owns a dog and lives in a house. Expected output 
 should detail the person, their dog, and their house in a structured format.
 */
-/*
+
 #include<iostream>
 using namespace std;
 
@@ -79,4 +79,4 @@ int main() {
 	cout << endl;
 
 	return 0;
-} */
+} 

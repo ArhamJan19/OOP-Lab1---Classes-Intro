@@ -2,7 +2,7 @@
 Implement functionality to add a 'Person' to the house and display all persons' details. 
 Expected output should list all persons in the house by name and age.*/
 
-/*
+
 #include<iostream>
 using namespace std;
 
@@ -70,4 +70,4 @@ int main() {
 	person3.person.pet.Breed = "buldog";
 	person3.DisplayPersonInfo();
 	return 0;
-} */
+} 

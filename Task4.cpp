@@ -4,7 +4,7 @@ Implement a method to change the owner's dog, demonstrating dynamic
 relationships. Expected output should show the person introducing a new pet.
 */
 
-/*
+
 #include<iostream>
 #include<string>
 using namespace std;
@@ -123,6 +123,6 @@ int main() {
 	cout << endl;
 
 	return 0;
-}*/
+}
 
 
