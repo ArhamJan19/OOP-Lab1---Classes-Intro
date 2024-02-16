@@ -1,5 +1,10 @@
+/*
+Expand the 'Dog Class:
+Add breed and age attributes. Implement a method to display the dog's details. 
+Expected output should include the dog's name, breed, and age.
 
-
+*/
+/*
 #include<iostream>
 using namespace std;
 
@@ -41,4 +46,4 @@ int main() {
 	person1.pet.Breed = "German Shephard";
 	person1.DisplayDogInfo();
 	return 0;
-}
+} */
